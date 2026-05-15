@@ -8,7 +8,7 @@ export default function ProjectsSection() {
 
  return (
   <section className="overflow-hidden bg-zinc-50 px-6 py-28">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto px-6 max-w-7xl">
     {/* Header */}
     <div className="mb-14 flex flex-col justify-between gap-6 md:flex-row md:items-end">
      <div className="max-w-xl">

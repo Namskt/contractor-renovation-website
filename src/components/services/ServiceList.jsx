@@ -4,7 +4,7 @@ import { services } from "../../data/services";
 export default function ServiceList() {
  return (
   <section className="bg-zinc-50 px-6 py-28">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Header */}
     <div className="mb-16 flex flex-col justify-between gap-8 md:flex-row md:items-end">
      <div className="max-w-xl">

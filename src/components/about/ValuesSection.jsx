@@ -30,7 +30,7 @@ const values = [
 export default function ValuesSection() {
  return (
   <section className="bg-zinc-950 px-6 py-28 text-white">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Header */}
     <div className="mb-16 flex flex-col justify-between gap-8 md:flex-row md:items-end">
      <div className="max-w-xl">

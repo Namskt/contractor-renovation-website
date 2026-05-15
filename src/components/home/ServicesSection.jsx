@@ -19,7 +19,7 @@ export default function ServicesSection() {
     style={{ transform: "skewX(-6deg)" }}
    />
 
-   <div className="relative mx-auto max-w-7xl">
+   <div className="relative mx-auto px-6 max-w-7xl">
     {/* Header row */}
     <div className="mb-16 flex flex-col justify-between gap-8 md:flex-row md:items-end">
      <div className="max-w-xl">

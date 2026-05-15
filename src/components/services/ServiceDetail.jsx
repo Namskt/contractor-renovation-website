@@ -44,7 +44,7 @@ const details = [
 export default function ServiceDetail() {
  return (
   <section id="detail" className="bg-zinc-950 px-6 py-28">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Header */}
     <div className="mb-16">
      <div className="mb-5 flex items-center gap-4">

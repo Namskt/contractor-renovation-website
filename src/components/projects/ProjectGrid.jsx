@@ -4,7 +4,7 @@ export default function ProjectGrid({ projects }) {
  if (projects.length === 0) {
   return (
    <section className="bg-zinc-50 px-6 py-16">
-    <div className="mx-auto max-w-7xl">
+    <div className="mx-auto max-w-7xl px-6">
      <div className="flex flex-col items-center justify-center border border-zinc-200 bg-white py-20">
       <div className="mb-4 flex h-14 w-14 items-center justify-center border border-zinc-100 bg-zinc-50">
        <span className="text-2xl font-black text-zinc-200">?</span>
@@ -28,7 +28,7 @@ export default function ProjectGrid({ projects }) {
 
  return (
   <section className="bg-zinc-50 px-6 py-12 pb-28">
-   <div className="mx-auto max-w-7xl space-y-5">
+   <div className="mx-auto max-w-7xl space-y-5 px-6">
     {/* Featured card — full width */}
     {featured && (
      <div className="group relative overflow-hidden bg-zinc-900">

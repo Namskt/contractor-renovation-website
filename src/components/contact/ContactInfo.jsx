@@ -6,7 +6,7 @@ const contacts = [
   icon: Phone,
   title: "WhatsApp",
   value: "0895-4061-82259",
-  href: "https://wa.me/62895406182259",
+  href: "https://khonam.id/",
   cta: "Chat Sekarang",
  },
  {
@@ -38,7 +38,7 @@ const contacts = [
 export default function ContactInfo() {
  return (
   <section className="bg-zinc-950 px-6 py-28 text-white">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Header */}
     <div className="mb-16 flex flex-col justify-between gap-8 md:flex-row md:items-end">
      <div className="max-w-xl">

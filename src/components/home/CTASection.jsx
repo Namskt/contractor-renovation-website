@@ -31,7 +31,7 @@ export default function CTASection() {
    <span className="absolute bottom-6 left-6 h-10 w-10 border-b-2 border-l-2 border-zinc-950/20" />
    <span className="absolute bottom-6 right-6 h-10 w-10 border-b-2 border-r-2 border-zinc-950/20" />
 
-   <div className="relative z-10 mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-[1.3fr_0.7fr]">
+   <div className="relative z-10 mx-auto grid max-w-7xl px-6 items-center gap-12 md:grid-cols-[1.3fr_0.7fr]">
     {/* Left: copy */}
     <div>
      {/* Eyebrow */}

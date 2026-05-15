@@ -10,7 +10,7 @@ const points = [
 export default function CompanyProfile() {
  return (
   <section className="bg-zinc-50 px-6 py-28">
-   <div className="mx-auto grid max-w-7xl items-center gap-16 lg:grid-cols-2">
+   <div className="mx-auto grid max-w-7xl px-6 items-center gap-16 lg:grid-cols-2">
     {/* Text column */}
     <div className="order-2 lg:order-1">
      {/* Eyebrow */}

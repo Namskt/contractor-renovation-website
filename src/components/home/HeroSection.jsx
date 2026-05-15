@@ -171,7 +171,7 @@ export default function HeroSection() {
       }`}
      >
       <a
-       href="https://wa.me/62895406182259"
+       href="https://khonam.id/"
        className="group relative flex items-center gap-2.5 overflow-hidden bg-amber-400 px-8 py-4"
        style={{ clipPath: "polygon(0 0, calc(100% - 12px) 0, 100% 100%, 12px 100%)" }}
       >

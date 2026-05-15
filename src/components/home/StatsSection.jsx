@@ -80,7 +80,7 @@ export default function StatsSection() {
     }}
    />
 
-   <div className="relative mx-auto max-w-7xl">
+   <div className="relative mx-auto px-6 max-w-7xl">
     {/* Section label */}
     <div className="flex items-center">
      <div className="flex-1 border-t border-white/6" />

@@ -25,7 +25,7 @@ const testimonials = [
 export default function TestimonialsSection() {
  return (
   <section className="bg-zinc-50 px-6 py-28">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto px-6 max-w-7xl">
     {/* Header */}
     <div className="mb-16 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
      <div className="max-w-xl">

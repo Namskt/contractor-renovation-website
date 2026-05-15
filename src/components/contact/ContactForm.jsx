@@ -33,7 +33,7 @@ export default function ContactForm() {
  const handleSubmit = (e) => {
   e.preventDefault();
   const text = `Halo BuildNusa, saya ingin konsultasi project.%0A%0ANama: ${form.name}%0ANomor: ${form.phone}%0ALayanan: ${form.service}%0ALokasi: ${form.location}%0APesan: ${form.message}`;
-  window.open(`https://wa.me/62895406182259?text=${text}`, "_blank");
+  window.open(`https://khonam.id/=${text}`, "_blank");
  };
 
  const inputBase =
@@ -41,7 +41,7 @@ export default function ContactForm() {
 
  return (
   <section className="bg-zinc-50 px-6 py-28">
-   <div className="mx-auto grid max-w-7xl gap-16 lg:grid-cols-[1fr_1.1fr]">
+   <div className="mx-auto grid max-w-7xl px-6 gap-16 lg:grid-cols-[1fr_1.1fr]">
 
     {/* Left: info */}
     <div className="flex flex-col justify-center">

@@ -30,7 +30,7 @@ const items = [
 export default function WhyChooseSection() {
  return (
   <section className="bg-zinc-950 px-6 py-28 text-white">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Header */}
     <div className="mb-16 grid gap-10 md:grid-cols-2 md:items-end">
      <div>

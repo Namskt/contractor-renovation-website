@@ -111,7 +111,7 @@ export default function Navbar() {
 
      {/* CTA */}
      <a
-      href="https://wa.me/62895406182259"
+      href="https://khonam.id/"
       target="_blank"
       rel="noreferrer"
       className="group relative hidden overflow-hidden bg-amber-400 px-6 py-3 lg:flex"
@@ -176,7 +176,7 @@ export default function Navbar() {
      ))}
 
      <a
-      href="https://wa.me/62895406182259"
+      href="https://khonam.id/"
       target="_blank"
       rel="noreferrer"
       className="mt-5 flex items-center justify-center gap-2 bg-amber-400 py-3.5 text-sm font-black tracking-wide text-zinc-950"

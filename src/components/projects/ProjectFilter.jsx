@@ -3,7 +3,7 @@ const categories = ["Semua", "Bangun Rumah", "Renovasi", "Interior", "Komersial"
 export default function ProjectFilter({ activeCategory, setActiveCategory }) {
  return (
   <section className="bg-zinc-50 px-6 pt-16 pb-0">
-   <div className="mx-auto max-w-7xl">
+   <div className="mx-auto max-w-7xl px-6">
     {/* Label row */}
     <div className="mb-6 flex items-center gap-4">
      <span className="h-px w-10 bg-amber-400" />
